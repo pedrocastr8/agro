@@ -1,2 +1,2 @@
 # agro_x
-aplicativo para soluções do agronegócio
+aplicativo para soluções do agronegócio e transformação digital.
